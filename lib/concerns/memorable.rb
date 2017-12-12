@@ -4,8 +4,8 @@ module Memorable
     self.all.count
   end
 
-  #def reset_all
-  #  @@songs.clear
-  #end
+  def reset_all
+    clear
+  end
 
 end
