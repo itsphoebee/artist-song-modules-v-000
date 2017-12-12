@@ -8,4 +8,9 @@ module Memorable
     self.all.clear
   end
 
+  module InstanceMethods
+    def initialize
+      
+    end
+  end
 end
