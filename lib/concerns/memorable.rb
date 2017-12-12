@@ -6,6 +6,7 @@ module Memorable
 
   def reset_all
     @@artists.clear
+    @@songs.clear
   end
 
 end
